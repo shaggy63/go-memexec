@@ -1,5 +1,5 @@
-//go:build !linux
-// +build !linux
+//go:build !android
+// +build !android
 
 package memexec
 
